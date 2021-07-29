@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+}
+
+.h1{
+    color: red;
+    
+}
+
+
+
+.p {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+   border-style: solid;
+   border-color: yellow;
+   border-width: 10px;
+   transition: 1s;
+}
+
+.a{
+    text-align: center;
+    font-size: larger;
+    color: blue;
+    font-family: cursive;
+    transition: 1s;
+}
+
+.img{
+    width: 8rem;
+    height: 8rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5.5px;
+    border: green;
+    display: block;
+    padding: 10px;
+    transition: 1s;
+}
+
+.main-blog{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: white;
+    border-radius: 15px;
+    border-color: white;
+    height: 153rem;
+    width: 23rem;
+    transition: 1s;
+}
+
+.blog-h1{
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+    color: red;
+    transition: 1s;
+}
+
+.line{
+    margin: auto;
+    width: 23rem;
+    transition: 1s;
+    
+}
+.image-thumbnail1{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: 9.5rem;
+    width: 22rem;
+    display: block;
+    transition: 1s;
+}
+
+.main-blog-text{
+    margin: auto;
+    text-align: center;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    transition: 1s;
+}
+
+.image-thumbnail2{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: 9.5rem;
+    width: 22rem;
+    display: block;
+    border-radius: 5px;
+    transition: 1s;
+}
+
+.table{
+    margin-right: auto;
+    margin-left: auto;
+    transition: 1s;
+
+}
+
+.main-blog-text{
+    margin: auto;
+    text-align: center;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    transition: 1s;
+}
+
+.h2-of-blog{
+    margin: auto;
+    text-align: center;
+    color: red;
+    font-size: 22px;
+    font-family: cursive;
+    transition: 1s;
+}
+
+.image-thumbnail3{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 300px;
+    width: 250px;
+    padding: 10px;
+    transition: 1s;
+}
+
+.image-thumbnail4{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 240px;
+    width: 250px;
+    padding: 10px;
+    transition: 1s;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0 25px;
+    transition: 1s;
+  }
+  th {
+    background-color: #4287f5;
+    color: white;
+  }
+  th,
+  td {
+    width: 150px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 1px;
+  }
+
+.about-copyright{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: white;
+    background-color: blue;
+    font-size: larger;
+    text-align: center;
+    transition: 1s;
+}

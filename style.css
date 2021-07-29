@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+}
+
+.h1{
+    color: red;
+    
+}
+
+
+
+.p {
+    background-color: white;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+   border-style: solid;
+   border-color: yellow;
+   border-width: 0.8rem;
+   transition: 1s;
+}
+
+.a{
+    text-align: center;
+    font-size: 1.33rem;
+    color: blue;
+    font-family: cursive;
+    transition: 1s;
+}
+
+.h2 {
+    font-size: xx-large;
+    font-family: cursive;
+    background-color: yellow;
+    color: purple;
+    padding: 10px;
+    margin: 25px;
+    transition: 1s;
+}
+
+.h3 {
+    font-family: sans-serif;
+    font-size: larger;
+    background-color: yellow;
+    color: purple;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: maroon 10px;
+    transition: 1s;
+}
+.main-section {
+   margin: 10px;
+   padding: 0%;
+   background-color: lightyellow;
+   border-radius: 10px;
+   border: green 10px;
+   transition: 1s;
+}
+
+.img{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: 8rem;
+    width: 8rem;
+    display: block;
+    transition: 1s;
+}
+
+.content-h1 {
+    font-family: cursive;
+    font-style: normal;
+    color: red;
+    padding: 10px;
+    margin: 10px;
+    align-content: center;
+    transition: 1s;
+}
+
+.content-p{
+    margin: 10px;
+    padding: 10px;
+    color: blue;
+    align-content: center;
+    font-style: normal;
+    font-family: fantasy;
+    font-size: 25px;
+    background-color: lightgreen;
+    transition: 1s;
+}
+
+.blogs-content{
+    margin: 10px;
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 25px;
+    border: red 50px;
+    transition: 1s;
+}
+.blogs{
+    margin: 10px;
+    box-align: center;
+    color: blue;
+    font-size: 40px;
+    font-family: cursive;
+    font-style: normal;
+    transition: 1s;
+}
+
+
+
+.blog-1 {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 15px;
+    width: 60%;
+    height: 50%;
+    transition: 1s;
+}
+
+.only-blogs{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    transition: 1s;
+}
+
+.img-2{
+    margin: 10px;
+    width: 6rem;
+    height: 8rem;
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.about-me{
+    margin: 10px;
+    border-radius: 25px;
+    background-color: white;
+    transition: 1s;
+
+}
+.me{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+    display: block;
+    border: yellowgreen;
+    border-radius: 10px;
+    border-width: thick;
+    transition: 1s;
+}
+
+.about-me-text{
+    margin: 25px;
+    color: blue;
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+    transition: 1s;
+}
+
+.about-me-text-h2{
+    margin: 25px;
+    color: red;
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    background-color: wheat;
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.about-copyright{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: white;
+    background-color: blue;
+    font-size: larger;
+    transition: 1s;
+}
+

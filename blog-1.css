@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+}
+
+.h1{
+    color: red;
+    
+}
+
+
+
+.p {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+   border-style: solid;
+   border-color: yellow;
+   border-width: 10px;
+   transition: 1s;
+}
+
+.a{
+    text-align: center;
+    font-size: larger;
+    color: blue;
+    font-family: cursive;
+    transition: 1s;
+}
+
+.img{
+    width: 8rem;
+    height: 8rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5.5px;
+    border: green;
+    display: block;
+    padding: 10px;
+    transition: 1s;
+}
+
+.main-blog{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: white;
+    border-radius: 15px;
+    border-color: white;
+    height: 162rem;
+    width: 23rem;
+    transition: 1s;
+}
+
+.blog-h1{
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+    color: red;
+    transition: 1s;
+}
+
+.line{
+    margin: auto;
+    width: 23rem;
+    transition: 1s;
+}
+.image-thumbnail1{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+    display: block;
+    transition: 1s;
+}
+
+.main-blog-text{
+    margin: auto;
+    text-align: center;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    transition: 1s;
+}
+
+.image-thumbnail2{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: 183px;
+    width: 127px;
+    display: block;
+    transition: 1s;
+}
+
+.h2-of-blog{
+    margin: auto;
+    text-align: center;
+    color: red;
+    font-size: 22px;
+    font-family: cursive;
+    transition: 1s;
+}
+
+.list{
+    margin: auto;
+    text-align: left;
+    font-size: 17px;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition: 1s;
+}
+
+.about-copyright{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: white;
+    background-color: blue;
+    font-size: larger;
+    text-align: center;
+    transition: 1s;
+}

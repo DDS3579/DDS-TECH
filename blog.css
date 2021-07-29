@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+}
+
+.h1{
+    color: red;
+    
+}
+
+
+
+.p {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+   border-style: solid;
+   border-color: yellow;
+   border-width: 10px;
+   transition: 1s;
+}
+
+.a{
+    text-align: center;
+    font-size: larger;
+    color: blue;
+    font-family: cursive;
+    transition: 1s;
+}
+
+.img{
+    width: 8rem;
+    height: 8rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5.5px;
+    border: green;
+    display: block;
+    padding: 10px;
+    transition: 1s;
+}
+
+
+.blog-1{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: white;
+    border-radius: 1.5rem;
+    border-color: white;
+    height: 25rem;
+    width: 22.5rem;
+    transition: 1s;
+}
+
+.blog-1-site-h2{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: purple;
+    font-size: 20px;
+    text-align: center;
+    transition: 1s;
+}
+
+.blog-1-site-h3{
+   
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: crimson;
+    font-size: 15px;
+    text-align: center;
+    transition: 1s;
+}
+
+.image-thumbnail1{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: 8rem;
+    width: 8rem;
+    display: block;
+    transition: 1s;
+}
+
+.blog-2{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: white;
+    border-radius: 20px;
+    border-color: white;
+    height: 28.3rem;
+    width: 22.5rem;
+    transition: 1s;
+}
+.blog-2-site-h2{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: purple;
+    font-size: 20px;
+    text-align: center;
+    transition: 1s;
+}
+
+.blog-2-site-h3{
+   
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: crimson;
+    font-size: 15px;
+    text-align: center;
+    transition: 1s;
+}
+.image-thumbnail2{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: 11rem;
+    width: 20rem;
+    display: block;
+    transition: 1s;
+}
+
+.image-thumbnail3{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: 9.5rem;
+    width: 22rem;
+    display: block;
+    transition: 1s;
+}
+
+.blog-3{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: white;
+    border-radius: 15px;
+    border-color: white;
+    height: 27rem;
+    width: 22.5rem;
+    transition: 1s;
+}
+
+.blog-3-site-h2{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: purple;
+    font-size: 25px;
+    text-align: center;
+    transition: 1s;
+}
+
+.blog-3-site-h3{
+   
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: crimson;
+    font-size: 15px;
+    text-align: center;
+    transition: 1s;
+}
+
+.about-copyright{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: white;
+    background-color: blue;
+    font-size: larger;
+    transition: 1s;
+}
